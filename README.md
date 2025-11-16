@@ -1,5 +1,5 @@
 <img width="787" height="693" alt="image" src="https://github.com/user-attachments/assets/085867a9-4f69-43a1-a5ec-a9fed102a5f5" /><img width="801" height="711" alt="image" src="https://github.com/user-attachments/assets/19896193-5811-4f55-b880-414ba55b3704" /># Cybersecurity
-
+**Task 1**
 19045.6456] rosoft Windows [version 10
 (c) Microsoft Corporation. All rights reserved.
 C:\Windows\system32>ipconfig
@@ -108,3 +108,7 @@ PORT STATE SERVICE
 7070/tcp open realserver
 Nmap done: 256 IP addresses (2 hosts up) scanned in 5.62 seconds
 C:\Windows\system32>^ZS
+
+
+
+**Task2 : The images are added**
